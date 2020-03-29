@@ -15,15 +15,14 @@ Para realizar estas acões será passado algumas recomendações:
 
 ## Recomendações para necessárias para contribuir no projeto:  
 
-*1º Abra o "View" e a opção "Command Palette":  
+##### 1º Abra o "View" e a opção "Command Palette":  
 -Escolha a opção: (Git-Clone), e no campo aberto cola o link do projeto que será fornecido.  
-*2º Cria um Novo "Branch":
--Escolha a opção "new branch" no ícone de criação, e escolha um nome para o seu novo "branch"  
-*3º Faça a Contribuição:
+##### 2º Cria um Novo "Branch":  
+- Escolha a opção "new branch" no ícone de criação, e escolha um nome para o seu novo "branch"  
+##### 3º Faça a Contribuição:  
 - Escreva seu código e faça a contribuição que desejar, respeitando a estrutura inicial do projeto.  
-*4º Faça o "Commit" do Código:
-- Na opção "Source Control", escolha a função "Commit" e em seguida digite um código para identificar a atualização;  
-depois clica no "More Actions" ou (...), e escolha a opção "Sync" para sincronizar.
+##### 4º Faça o "Commit" do Código:  
+- Na opção "Source Control", escolha a função "Commit" e em seguida digite um código para identificar a atualização depois clica no "More Actions" ou (...), e escolha a opção "Sync" para sincronizar.
 
 *O projeto "master" tem na sua estrutura toda a declaração da variável, função de escolha dos números e toda a lógica de escolha da operação desejada pelo usuário. Só procisa trabalhar acrescentando a lógica do "if" (if (operacao == "a" ||operacao == "+") {Console.WriteLine(numero1 + numero2);})*  
 
