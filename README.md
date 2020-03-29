@@ -14,9 +14,8 @@ Para realizar estas acões será passado algumas recomendações:
 4. Tudo pronto, agora é só executar o passo a passo a seguir. 
 
 ## Recomendações para necessárias para contribuir no projeto:  
-
 ##### 1º Abra o "View" e a opção "Command Palette":  
--Escolha a opção: (Git-Clone), e no campo aberto cola o link do projeto que será fornecido.  
+- Escolha a opção: (Git-Clone), e no campo aberto cola o link do projeto que será fornecido.  
 ##### 2º Cria um Novo "Branch":  
 - Escolha a opção "new branch" no ícone de criação, e escolha um nome para o seu novo "branch"  
 ##### 3º Faça a Contribuição:  
